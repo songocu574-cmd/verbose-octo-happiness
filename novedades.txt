@@ -1,1 +1,2 @@
-
+versión0.2.0
+Se agregaron las actualizaciones automáticas. Y las siguientes características.Características de esta nueva versión. Número uno.Narrar un audio. Número 2. Narrar un video. El funcionamiento lo van a encontrar en la sección tutorial y ayuda. 
